@@ -2,8 +2,6 @@
 
 This repository provides you with useful **CodeSnippets** for Xcode.
 
-<img width="100" alt="xcode-icon" src="img/Xcode-logo.png">
-
 ## ●Process 1
 Please check inside the following directory.
 
@@ -28,10 +26,3 @@ git clone https://github.com/yuta-shoji/Xcode-snippets.git
 
 Restart Xcode and press the **`⌘ shift L`** to see the snippet.
 
-![](img/snippets-setting.png)
-
-## ●Step 4
-
-Use it like this on the editor.
-
-![](img/snippets-demo.gif)
