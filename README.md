@@ -2,7 +2,7 @@
 
 This repository provides you with useful **CodeSnippets** for Xcode.
 
-## ●Process 1
+## ●Step 1
 Please check inside the following directory.
 
 This directory contains the xml files for the code snippets you have added yourself.
