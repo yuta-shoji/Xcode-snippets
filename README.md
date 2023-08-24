@@ -25,4 +25,3 @@ git clone https://github.com/yuta-shoji/Xcode-snippets.git
 ## ●Step 3
 
 Restart Xcode and press the **`⌘ shift L`** to see the snippet.
-
