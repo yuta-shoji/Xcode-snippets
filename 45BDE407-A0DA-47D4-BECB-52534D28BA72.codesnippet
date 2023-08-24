@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>テストのファンクションを生成します</string>
+	<string>Generate test functions.</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Test Function</string>
 	<key>IDECodeSnippetUserSnippet</key>

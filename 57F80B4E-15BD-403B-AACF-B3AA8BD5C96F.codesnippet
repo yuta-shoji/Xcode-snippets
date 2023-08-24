@@ -16,9 +16,9 @@ print(&lt;#target#&gt;)</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>print文を見やすく生成します</string>
+	<string>Generates readable print method.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Print marking</string>
+	<string>Readable Print</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
